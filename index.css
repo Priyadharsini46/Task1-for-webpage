@@ -1,0 +1,54 @@
+
+.centerBlock{
+  width: 1000px;
+  height: 1000px;
+  position: fixed;
+  top: 20%;
+  left: 20%;
+} 
+
+h1
+{
+  color : white;
+ text-align: center;
+}
+
+p
+{
+  font-size: 15px;
+  font-weight: 200px;
+  color : greenyellow;
+text-align: center;
+}
+
+body
+{
+  background-color: rgb(149, 181, 240);
+}
+
+.banner
+{
+  margin-left: auto;
+  
+  border-radius: 45px 45px 0px 0px;
+  -webkit-border-radius: 45px 45px 0px 0px;
+  -moz-border-radius: 45px 45px 0px 0px;
+}
+
+.tab
+{
+ background-color: rgb(99, 99, 240);
+ margin-top: 0%;
+ margin-left: auto;
+ margin-right: 62%; 
+ border-radius: 45px 45px 45px 45px;
+  -webkit-border-radius: 45px 45px 45px 45px;
+  -moz-border-radius: 45px 45px 45px 45px;
+}
+
+.block
+{
+  margin-top: 0%;
+  margin-left: 33%;
+  
+}
